@@ -1,0 +1,4 @@
+C:/Users/Administrator/Documents/firerush/FireRush-Internal/build/CMakeFiles/firerush_overlay.dir
+C:/Users/Administrator/Documents/firerush/FireRush-Internal/build/CMakeFiles/injector.dir
+C:/Users/Administrator/Documents/firerush/FireRush-Internal/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Documents/firerush/FireRush-Internal/build/CMakeFiles/rebuild_cache.dir
